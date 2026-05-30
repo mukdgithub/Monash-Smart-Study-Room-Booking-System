@@ -22,19 +22,6 @@ The application follows Object-Oriented Programming (OOP) principles and stores 
 
 ---
 
-## Team Information
-
-| Role | Team Member |
-|--------|------------|
-| Product Owner | [Name] |
-| Scrum Master | [Name] |
-| Software Architect | [Name] |
-| Software Engineer | [Name] |
-
-*Roles may overlap depending on team structure.*
-
----
-
 ## Technologies Used
 
 - Programming Language: Python 3.13.x / Java 23.x
@@ -73,7 +60,3 @@ The application follows Object-Oriented Programming (OOP) principles and stores 
 - Payment processing
 - Deal package application
 - Booking confirmation
-
----
-
-## Project Structure
