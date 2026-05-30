@@ -1,0 +1,9 @@
+room_id,room_type,location,standard_equipment,price_per_hour,is_available,opening_time,closing_time
+R001,small,Building A - Level 1,"1 x Table, 2 x Chair",15.0,True,08:00,22:00
+R002,small,Building A - Level 2,"1 x Table, 2 x Chair",15.0,True,08:00,22:00
+R003,medium,Building B - Level 1,"1 x Big Table, 6 x Chair, 1 x Whiteboard",40.0,True,08:00,22:00
+R004,medium,Building B - Level 2,"1 x Big Table, 6 x Chair, 1 x Whiteboard",40.0,True,08:00,22:00
+R005,large,Building C - Level 1,"1 x Meeting Table, 10 x Chair, 1 x Projector",80.0,True,08:00,22:00
+R006,large,Building C - Level 2,"1 x Meeting Table, 10 x Chair, 1 x Projector",80.0,True,08:00,22:00
+R007,small,Building C,"1 x Table, 2 x Chair",15.0,True,08:00,22:00
+R008,large,Building C,"1 x Meeting Table, 10 x Chair, 1 x Projector",80.0,True,08:00,22:00

@@ -1,0 +1,11 @@
+user_id,first_name,last_name,email,phone,password,role,fund_balance,is_suspended,newbie_used,strike_count,suspension_end,student_id
+U001,Alice,Smith,student1@student.monash.edu,0411111111,pass1234,student,300.0,False,False,0,,11111111
+U002,Bob,Jones,student2@student.monash.edu,0422222222,pass5678,student,50.0,False,False,0,,11111112
+U003,Admin,User,admin@monash.edu,0433333333,adminpass,admin,0.0,False,False,0,,
+UA92C1139,Alan,Thomas,alan@student.monash.edu,0431198593,pass12345,student,0.0,False,False,0,,11111113
+UB3CA92B6,vimal,kumar,vimal@student.monash.edu,0431198594,pass1234,student,0.0,False,False,0,,11111114
+U14EC78F8,jude,thomas,jude@student.monash.edu,0431198595,pass1234,student,0.0,False,False,0,,11111115
+UAC590280,admin2,monash,admin2@monash.edu,046811111111,adminpass,admin,0.0,False,False,0,,
+UE5A11362,admin3,monash,admin3@monash.edu,04681234,adminpass,admin,0.0,False,False,0,,
+UCEC97D4A,student3,monash,student3@student.monash.edu,,pass1234,student,0.0,False,False,0,,11111119
+U14C1A47B,student4,monash,student4@student.monash.edu,046871622,pass1234,student,0.0,False,False,0,,11111121

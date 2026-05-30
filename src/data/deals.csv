@@ -1,0 +1,2 @@
+deal_id,name,description,price,bookable_hours,applicable_room_type,valid_until
+D001,12-Hour Small Room Bundle,Exchange $100 for 12 bookable hours on small rooms,100.0,12.0,small,31/12/2026
